@@ -21,7 +21,7 @@ The following video demonstrates Crosshair Pro running flawlessly as a local ove
 ▶ Watch the Demo Video on Imgur  [Crosshair Demo](https://imgur.com/a/u9m0esb) 
 
 👨‍💻 About the Developer
-Crosshair Pro is built by an independent Android developer with a proven track record in the gaming utility space. A previous gaming optimization app organically acquired active users and a 5-star rating on major alternative app stores with zero marketing budget. Crosshair Pro is the next evolution—stripped down to focus purely on visual enhancement for cloud gamers.
+Crosshair Pro is built by an Android developer with a proven track record in the gaming utility space. A previous gaming optimization app organically acquired active users and a 5-star rating on major alternative app stores with zero marketing budget. Crosshair Pro is the next evolution—stripped down to focus purely on visual enhancement for cloud gamers.
 
 🔒 Current Status
 Crosshair Pro is currently in a closed, private beta. The source code is kept private to protect the proprietary overlay technology.
