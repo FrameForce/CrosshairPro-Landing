@@ -1,13 +1,10 @@
 Crosshair Pro
-Visual Overlay + Macro Toolkit for Mobile Cloud Gaming
+Macro Toolkit for Mobile Cloud Gaming
 Overview
 
-Crosshair Pro is a standalone Android utility built specifically for cloud phone and cloud gaming users. It delivers two core tools in one lightweight companion app:
+Crosshair Pro is a standalone Android utility built specifically for cloud phone and cloud gaming users. 
 
-🎯 Feature 1: Custom Crosshair Overlay
-Fully customizable, high-precision crosshairs applied over the user's screen for FPS/TPS games. Default crosshairs are often compressed or hard to see during cloud streaming—Crosshair Pro provides a crisp, local overlay regardless of stream quality.
-
-⚙️ Feature 2: Visual Macro Toolkit (NEW)
+⚙️ Feature: Visual Macro Toolkit
 The biggest pain point for cloud gamers is setting up AFK macros—users must blindly guess X/Y coordinates and hex color codes through frustrating trial and error.
 
 Crosshair Pro solves this with two tools:
