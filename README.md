@@ -16,7 +16,8 @@ Crosshair Pro solves this with two tools:
 Users drag a crosshair directly over any button or target on their screen
 Tap "Add Point" to capture the exact X/Y coordinates
 Tap "Export" and the full coordinate sequence is instantly copied to the clipboard
-Paste directly into any macro manager—script setup goes from 10 minutes to 10 seconds
+Paste directly into any macro manager—script setup goes from 10 minutes to 10 seconds.
+
 🎨 Local Pixel Color Picker
 Users drag the crosshair over any on-screen asset
 Tap "Pick Color" and the app instantly reads the precise Hex color code
